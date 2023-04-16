@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Khansu\'s Self-Promo App</string>
+    <string name="contact_name">Contact Name</string>
+    <string name="contact_number">Contact Number</string>
+    <string name="my_display_name">My Display Name</string>
+    <string name="include_junior">Include Junior</string>
+    <string name="immediate_start">Immediate Start</string>
+    <string name="start_from_date">Start from date</string>
+    <string name="preview_message">Preview Message</string>
+    <string name="this_will_be_the_project_view_of_my_project_i_am_gonna_write_long_message_in_order_to_check_it_for_any_reason">This will be the project view of my project.I am gonna write long message in order to check it for any reason.</string>
+    <string name="send_message">Send Message</string>
+</resources>
